@@ -57,7 +57,7 @@ This repository tracks a user's progress through the OSSU Computer Science curri
 
 | Provider |                                                                     Course                                                                     | Completion Date | Proof | Repository |
 | :------: | :--------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
-|   MITx   | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) |        -        |   -   |     -      |
+|   MITx   | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) |    2023-08-21   |   -   |     -      |
 
 ## Core CS
 
