@@ -51,7 +51,7 @@ This repository tracks a user's progress through the OSSU Computer Science curri
 
 | Provider |                        Course                        | Completion Date | Proof | Repository |
 | :------: | :--------------------------------------------------: | :-------------: | :---: | :--------: |
-| py4e.com | [Python for Everybody](https://www.py4e.com/lessons) |   2023-07-22    |       |     -      |
+| py4e.com | [Python for Everybody](https://www.py4e.com/lessons) |   2023-07-22    |  https://github.com/Mosaix65/ossu-computer-science-progress/blob/main/Certificate%20Michel%20Hebert%20PY4E.pdf     |     -      |
 
 ### Introduction to Computer Science
 
