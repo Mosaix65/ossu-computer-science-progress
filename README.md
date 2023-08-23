@@ -51,7 +51,28 @@ This repository tracks a user's progress through the OSSU Computer Science curri
 
 | Provider |                        Course                        | Completion Date | Proof | Repository |
 | :------: | :--------------------------------------------------: | :-------------: | :---: | :--------: |
-| py4e.com | [Python for Everybody](https://www.py4e.com/lessons) |   2023-07-22    |       |     -      |
+| py4e.com | [Python for Everybody](https://www.py4e.com/lessons) |   2023-07-22    | {
+  "type": "Assertion",
+  "id": "https://www.py4e.com/tsugi/badges/assert.php?id=423875305a696b58374377384c7173496353333834386643427246417339456c706f2b3657535766636e6c43724e3453713974735442495651316a6475756a4d2b7a467839635562574668316d59496458536d6258507a4533585748744c454261434143446345",
+  "@context": "https://w3id.org/openbadges/v2",
+  "recipient": {
+    "type": "email",
+    "salt": "35b3e6c2cd5d4c7d9045eb3f14af9bda",
+    "hashed": true,
+    "identity": "sha256$8311280a49ddc98ad8810a2bfb44b8f7c43617e7f2f80c834390b8a57746a96a"
+  },
+  "badge": "https://www.py4e.com/tsugi/badges/badge-info.php?id=423875305a696b58374377384c7173496353333834386643427246417339456c706f2b3657535766636e6c43724e3453713974735442495651316a6475756a4d2b7a467839635562574668316d59496458536d6258507a4533585748744c45426143414344",
+  "issuedOn": "2023-07-21T19:34:06Z",
+  "image": {
+    "id": "https://api.badgr.io/public/assertions/sfdF5xr6Rh6iP1YH0iZuEA/image"
+  },
+  "evidence": [
+    {
+      "id": "https://www.py4e.com"
+    }
+  ],
+  "revoked": false
+}      |     -      |
 
 ### Introduction to Computer Science
 
