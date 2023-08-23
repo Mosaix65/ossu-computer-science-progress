@@ -51,7 +51,7 @@ This repository tracks a user's progress through the OSSU Computer Science curri
 
 | Provider |                        Course                        | Completion Date | Proof | Repository |
 | :------: | :--------------------------------------------------: | :-------------: | :---: | :--------: |
-| py4e.com | [Python for Everybody](https://www.py4e.com/lessons) |   2023-07-22    |   https://api.badgr.io/public/assertions/sfdF5xr6Rh6iP1YH0iZuEA?identity__email=michel_4%40hotmail.com   |     -      |
+| py4e.com | [Python for Everybody](https://www.py4e.com/lessons) |   2023-07-22    |   <iframe src="https://api.badgr.io/public/assertions/sfdF5xr6Rh6iP1YH0iZuEA?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191" title="Badge: Python for Everybody" style="width: 330px; height: 191px; border: 0px;"></iframe>   |     -      |
 
 ### Introduction to Computer Science
 
